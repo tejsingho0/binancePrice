@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "BinancePrice",
-    "slug": "BinancePrice",
+    "slug": "binanceprice",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "33be3bb4-1498-40b1-81bb-b131393fa896"
+      }
+    },
+    "owner": "tejsingh11"
   }
 }
